@@ -7,6 +7,7 @@
 
         if (args.Length == 0)
         {
+            Console.WriteLine("\n***************************************************************************\n");
             Console.WriteLine("Arquivo não selecionado, usando o arquivo padrão 'comandos.txt'.");
             caminhoArquivo = "comandos.txt";
         }
@@ -16,6 +17,8 @@
         }
 
         ArquivoAVL executor = new ArquivoAVL();
+        Console.WriteLine("\n***************************************************************************\n");
         executor.ExecutarComandos(caminhoArquivo);
+        Console.WriteLine("\n***************************************************************************\n");
     }
 }
