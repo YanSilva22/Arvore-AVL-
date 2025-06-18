@@ -1,29 +1,44 @@
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.exe
-C:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.deps.json
-C:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.runtimeconfig.json
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.dll
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.pdb
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.AssemblyInfoInputs.cache
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.AssemblyInfo.cs
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.csproj.CoreCompileInputs.cache
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.dll
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\refint\ArvoreAVL.dll
-c:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.pdb
-C:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.genruntimeconfig.cache
-C:\Users\Yuri\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ref\ArvoreAVL.dll
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.AssemblyInfoInputs.cache
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.AssemblyInfo.cs
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.csproj.CoreCompileInputs.cache
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.sourcelink.json
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.dll
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\refint\ArvoreAVL.dll
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.pdb
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.exe
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.deps.json
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.runtimeconfig.json
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.dll
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\bin\Debug\net8.0\ArvoreAVL.pdb
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ArvoreAVL.genruntimeconfig.cache
-C:\Users\Yan\Downloads\ArvoreAVL\ArvoreAVL\obj\Debug\net8.0\ref\ArvoreAVL.dll
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.exe
+C:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.deps.json
+C:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.runtimeconfig.json
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.dll
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.pdb
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.AssemblyInfoInputs.cache
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.AssemblyInfo.cs
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.csproj.CoreCompileInputs.cache
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.dll
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/refint/ArvoreAVL.dll
+c:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.pdb
+C:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.genruntimeconfig.cache
+C:/Users/Yuri/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ref/ArvoreAVL.dll
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.AssemblyInfoInputs.cache
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.AssemblyInfo.cs
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.csproj.CoreCompileInputs.cache
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.sourcelink.json
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.dll
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/refint/ArvoreAVL.dll
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.pdb
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.exe
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.deps.json
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.runtimeconfig.json
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.dll
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/bin/Debug/net8.0/ArvoreAVL.pdb
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ArvoreAVL.genruntimeconfig.cache
+C:/Users/Yan/Downloads/ArvoreAVL/ArvoreAVL/obj/Debug/net8.0/ref/ArvoreAVL.dll
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/bin/Debug/net8.0/ArvoreAVL
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/bin/Debug/net8.0/ArvoreAVL.deps.json
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/bin/Debug/net8.0/ArvoreAVL.runtimeconfig.json
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/bin/Debug/net8.0/ArvoreAVL.dll
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/bin/Debug/net8.0/ArvoreAVL.pdb
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.AssemblyInfoInputs.cache
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.AssemblyInfo.cs
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.csproj.CoreCompileInputs.cache
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.sourcelink.json
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.dll
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/refint/ArvoreAVL.dll
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.pdb
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ArvoreAVL.genruntimeconfig.cache
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/Documentos/Códigos/C#/AVL_tree/Arvore-AVL-/obj/Debug/net8.0/ref/ArvoreAVL.dll
