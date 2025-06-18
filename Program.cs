@@ -3,7 +3,7 @@
     static void Main(string[] args)
     {
         // Verifica se o caminho do arquivo foi passado como argumento
-        string caminhoArquivo = null;
+        string? caminhoArquivo = null;
 
         if (args.Length == 0)
         {
