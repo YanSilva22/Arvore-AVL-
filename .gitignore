@@ -1,5 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/vs,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=vs,windows
+### C# ###
+bin/
+obj/
 
 ### vs ###
 ## Ignore Visual Studio temporary files, build results, and
